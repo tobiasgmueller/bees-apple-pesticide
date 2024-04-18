@@ -4,7 +4,7 @@
 Pesticide risk during commercial apple pollination is greater for honeybees than other managed and wild bees
 
 
-This hosts all code for the analysis. The files are organized as below. All data (the "input" folder) is also hosted on zenodo at
+This hosts all code for the analysis. The files are organized as below. All data (the "input" folder) is also hosted on zenodo at https://doi.org/10.5281/zenodo.10835332
 
 
 input - contains the main data files.
